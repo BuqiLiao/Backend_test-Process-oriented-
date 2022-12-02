@@ -1,12 +1,12 @@
 <?php
 
-define('DB_HOST', 'localhost');
+define('DB_HOST', '');
 
-define('DB_USER', 'root');
+define('DB_USER', '');
 
-define('DB_PWD', 'g1039384t');
+define('DB_PWD', '');
 
-define('DB_NAME', 'tippo');
+define('DB_NAME', '');
 
 define('DB_CHARSET', 'utf8');
 
